@@ -5,6 +5,30 @@
     "version_code": 4,
     "package_name": "com.bocatoca.wallpaper.toca",
     "icon": "https://raw.githubusercontent.com/guujoy/toca_wallpaper/main/app_icon/com.bocatoca.wallpaper.toca.png",
-    "desc": "The Amazing Wallpaper"
+    "desc": "Get the newest and beautiful toca life world outfits and house decotation！"
+  },
+  {
+    "name": "Gacha life Outfits Ideas Nox Club",
+    "version_name": "1.1",
+    "version_code": 2023040618,
+    "package_name": "com.gacha.wallpaper.outfit.idea",
+    "icon": "https://raw.githubusercontent.com/wiki/guujoy/gachar/info/recommend/com.gacha.wallpaper.outfit.idea.png",
+    "desc": "Get the unique and stylist gacha nox and gacha club outfits！"
+  },
+  {
+    "name": "LOL Wallpapers Of Legends - Leagues",
+    "version_name": "2023040222",
+    "version_code": 2023040222,
+    "package_name": "com.wallpaper.legends.leagues.live",
+    "icon": "https://raw.githubusercontent.com/wiki/guujoy/lol_wallpaper/info/recommend/com.wallpaper.legends.leagues.live.png",
+    "desc": "The latest and most complete lol hero wallpaper! For the tribe!"
+  },
+  {
+    "name": "Toca Boca Room Ideas",
+    "version_name": "1.0",
+    "version_code": 2023040823,
+    "package_name": "com.TocaBoca.wallpaper.room.idea",
+    "icon": "https://raw.githubusercontent.com/wiki/guujoy/toca_room_idea/info/recommend/com.TocaBoca.wallpaper.room.idea.png",
+    "desc": "Toca Room Decoration Complete Collection, with different styles of decoration and rooms, there is always one you like!"
   }
 ]
