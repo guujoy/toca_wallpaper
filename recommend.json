@@ -30,5 +30,13 @@
     "package_name": "com.TocaBoca.wallpaper.room.idea",
     "icon": "https://raw.githubusercontent.com/wiki/guujoy/toca_room_idea/info/recommend/com.TocaBoca.wallpaper.room.idea.png",
     "desc": "Toca Room Decoration Complete Collection, with different styles of decoration and rooms, there is always one you like!"
+  },
+  {
+    "name": "Boca Toca Boca Pool Idea",
+    "version_name": "1.0",
+    "version_code": 1,
+    "package_name": "com.theforce99.toca.pool.idea.tocaboca.hdwallpaper",
+    "icon": "https://raw.githubusercontent.com/guujoy/toca_pool/main/info/app_icon/com.theforce99.toca.pool.idea.tocaboca.hdwallpaper.png",
+    "desc": "The Best Toca Pool Decoration Ideas!"
   }
 ]
