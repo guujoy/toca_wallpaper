@@ -38,5 +38,13 @@
     "package_name": "com.theforce99.toca.pool.idea.tocaboca.hdwallpaper",
     "icon": "https://raw.githubusercontent.com/guujoy/toca_pool/main/info/app_icon/com.theforce99.toca.pool.idea.tocaboca.hdwallpaper.png",
     "desc": "The Best Toca Pool Decoration Ideas!"
+  },
+  {
+    "name": "Avatar World Outfit Idea City Life HD",
+    "version_name": "1.0",
+    "version_code": 1,
+    "package_name": "com.theforce99.avatarworld.toca.outfit.idea.hd.boca",
+    "icon": "https://raw.githubusercontent.com/guujoy/toca_pool/main/info/app_icon/com.theforce99.avatarworld.toca.outfit.idea.hd.boca.png",
+    "desc": "The Best Avatar World Outfit Idea!"
   }
 ]
