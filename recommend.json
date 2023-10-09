@@ -8,13 +8,29 @@
     "desc": "Get the newest and beautiful toca life world outfits and house decotation！"
   },
   {
-    "name": "Gacha life Outfits Ideas Nox Club",
-    "version_name": "1.1",
-    "version_code": 2023040618,
-    "package_name": "com.gacha.wallpaper.outfit.idea",
-    "icon": "https://raw.githubusercontent.com/wiki/guujoy/gachar/info/recommend/com.gacha.wallpaper.outfit.idea.png",
-    "desc": "Get the unique and stylist gacha nox and gacha club outfits！"
+    "name": "Avatar World Outfit Idea City Life HD",
+    "version_name": "1.0",
+    "version_code": 1,
+    "package_name": "com.theforce99.avatarworld.toca.outfit.idea.hd.boca",
+    "icon": "https://raw.githubusercontent.com/guujoy/avatarworld/main/info/app_icon/com.theforce99.avatarworld.toca.outfit.idea.hd.boca.png",
+    "desc": "The Best Avatar World Outfit Idea!"
   },
+  {
+    "name": "BocaBoca Toca Wednesday Addams",
+    "version_name": "1.0",
+    "version_code": 1,
+    "package_name": "com.theforce99.toca.wednesday.addams.tocaboca.hdwallpaper",
+    "icon": "https://raw.githubusercontent.com/wiki/guujoy/Boca-Boca-Toca-Wednesday-Addams-HD/info/recommend/com.theforce99.toca.wednesday.addams.tocaboca.hdwallpaper.png",
+    "desc": "Get the Unique Toca Wednesday Outfit!"
+  },
+    {
+    "name": "Boca Toca Boca Pool Idea",
+    "version_name": "1.0",
+    "version_code": 1,
+    "package_name": "com.theforce99.toca.pool.idea.tocaboca.hdwallpaper",
+    "icon": "https://raw.githubusercontent.com/guujoy/toca_pool/main/info/app_icon/com.theforce99.toca.pool.idea.tocaboca.hdwallpaper.png",
+    "desc": "The Best Toca Pool Decoration Ideas!"
+  }
   {
     "name": "LOL Wallpapers Of Legends - Leagues",
     "version_name": "2023040222",
@@ -30,21 +46,5 @@
     "package_name": "com.TocaBoca.wallpaper.room.idea",
     "icon": "https://raw.githubusercontent.com/wiki/guujoy/toca_room_idea/info/recommend/com.TocaBoca.wallpaper.room.idea.png",
     "desc": "Toca Room Decoration Complete Collection, with different styles of decoration and rooms, there is always one you like!"
-  },
-  {
-    "name": "Boca Toca Boca Pool Idea",
-    "version_name": "1.0",
-    "version_code": 1,
-    "package_name": "com.theforce99.toca.pool.idea.tocaboca.hdwallpaper",
-    "icon": "https://raw.githubusercontent.com/guujoy/toca_pool/main/info/app_icon/com.theforce99.toca.pool.idea.tocaboca.hdwallpaper.png",
-    "desc": "The Best Toca Pool Decoration Ideas!"
-  },
-  {
-    "name": "Avatar World Outfit Idea City Life HD",
-    "version_name": "1.0",
-    "version_code": 1,
-    "package_name": "com.theforce99.avatarworld.toca.outfit.idea.hd.boca",
-    "icon": "https://raw.githubusercontent.com/guujoy/toca_pool/main/info/app_icon/com.theforce99.avatarworld.toca.outfit.idea.hd.boca.png",
-    "desc": "The Best Avatar World Outfit Idea!"
   }
 ]
